@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Necropolis of Porta Ercolano"
 date:   2021-11-14 12:04:05 -0500
 categories: Necropolis
