@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-12-06T17:27:17-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Roman Tombs</title><subtitle>This site displays an interactive map about tombs and burials all over the ancient Mediterranean and Europe. You can explore the different sites and tombs, and learn about the Roman influences on the different cultures&apos; funeral sites. Each site on the map is linked to a page with more information on that site.</subtitle><entry><title type="html">Adro Vello</title><link href="http://localhost:4000/necropolis/2021/11/14/adro-vello.html" rel="alternate" type="text/html" title="Adro Vello" /><published>2021-11-14T12:04:05-05:00</published><updated>2021-11-14T12:04:05-05:00</updated><id>http://localhost:4000/necropolis/2021/11/14/adro-vello</id><content type="html" xml:base="http://localhost:4000/necropolis/2021/11/14/adro-vello.html">&lt;h1 id=&quot;location&quot;&gt;Location&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-12-06T20:45:22-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Roman Tombs</title><subtitle>This site displays an interactive map about tombs and burials all over the ancient Mediterranean and Europe. You can explore the different sites and tombs, and learn about the Roman influences on the different cultures&apos; funeral sites. Each site on the map is linked to a page with more information on that site.</subtitle><entry><title type="html">Adro Vello</title><link href="http://localhost:4000/necropolis/2021/11/14/adro-vello.html" rel="alternate" type="text/html" title="Adro Vello" /><published>2021-11-14T12:04:05-05:00</published><updated>2021-11-14T12:04:05-05:00</updated><id>http://localhost:4000/necropolis/2021/11/14/adro-vello</id><content type="html" xml:base="http://localhost:4000/necropolis/2021/11/14/adro-vello.html">&lt;h1 id=&quot;location&quot;&gt;Location&lt;/h1&gt;
 &lt;h4 id=&quot;citytown&quot;&gt;City/Town&lt;/h4&gt;
 &lt;p&gt;San Vicente do Grove&lt;/p&gt;
 &lt;h4 id=&quot;modern-country&quot;&gt;Modern Country&lt;/h4&gt;
 &lt;p&gt;Spain&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://mads709.github.io/spain-portugal-map/&quot; title=&quot;map&quot; style=&quot;width= 200%; left= 440%&quot; height=&quot;400&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h3 id=&quot;culture&quot;&gt;Culture&lt;/h3&gt;
 &lt;p&gt;Romano-Spaniard&lt;/p&gt;
 &lt;h1 id=&quot;site-type&quot;&gt;Site Type&lt;/h1&gt;
@@ -28,6 +29,7 @@
 &lt;p&gt;Colaride&lt;/p&gt;
 &lt;h4 id=&quot;modern-country&quot;&gt;Modern Country&lt;/h4&gt;
 &lt;p&gt;Portugal&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://mads709.github.io/spain-portugal-map/&quot; title=&quot;map&quot; style=&quot;width= 200%; left= 440%&quot; height=&quot;400&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h1 id=&quot;site-type&quot;&gt;Site Type&lt;/h1&gt;
 &lt;p&gt;Necropolis&lt;/p&gt;
 
@@ -47,6 +49,7 @@
 &lt;p&gt;Barnwood&lt;/p&gt;
 &lt;h4 id=&quot;modern-country&quot;&gt;Modern Country&lt;/h4&gt;
 &lt;p&gt;England&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot; https://mads709.github.io/northern-europe-map/&quot; title=&quot;map&quot; style=&quot;width= 200%; left= 440%&quot; height=&quot;400&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h3 id=&quot;culture&quot;&gt;Culture&lt;/h3&gt;
 &lt;p&gt;Romano-British&lt;/p&gt;
 &lt;h1 id=&quot;site-type&quot;&gt;Site Type&lt;/h1&gt;
@@ -69,6 +72,7 @@
 &lt;p&gt;Gloucester&lt;/p&gt;
 &lt;h4 id=&quot;modern-country&quot;&gt;Modern Country&lt;/h4&gt;
 &lt;p&gt;England&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot; https://mads709.github.io/northern-europe-map/&quot; title=&quot;map&quot; style=&quot;width= 200%; left= 440%&quot; height=&quot;400&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h3 id=&quot;culture&quot;&gt;Culture&lt;/h3&gt;
 &lt;p&gt;Romano-British&lt;/p&gt;
 &lt;h1 id=&quot;site-type&quot;&gt;Site Type&lt;/h1&gt;
@@ -95,6 +99,7 @@
 &lt;p&gt;Carmo&lt;/p&gt;
 &lt;h4 id=&quot;modern-country&quot;&gt;Modern Country&lt;/h4&gt;
 &lt;p&gt;Spain&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://mads709.github.io/spain-portugal-map/&quot; title=&quot;map&quot; style=&quot;width= 200%; left= 440%&quot; height=&quot;400&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h3 id=&quot;culture&quot;&gt;Culture&lt;/h3&gt;
 &lt;p&gt;Romano-Spaniard&lt;/p&gt;
 &lt;h1 id=&quot;site-type&quot;&gt;Site Type&lt;/h1&gt;
@@ -127,6 +132,7 @@
 &lt;p&gt;Rome&lt;/p&gt;
 &lt;h4 id=&quot;modern-country&quot;&gt;Modern Country&lt;/h4&gt;
 &lt;p&gt;Italy&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://mads709.github.io/rome-region-map/&quot; title=&quot;map&quot; style=&quot;width= 200%; left= 440%&quot; height=&quot;400&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h3 id=&quot;culture&quot;&gt;Culture&lt;/h3&gt;
 &lt;p&gt;Roman&lt;/p&gt;
 &lt;h1 id=&quot;site-type&quot;&gt;Site Type&lt;/h1&gt;
@@ -177,6 +183,7 @@ GN(aei) POMPONI HYLAE E(t) POMPONIAE GN(aei) L(ibertae) VITALINIS&lt;br /&gt;
 &lt;p&gt;Gloucester&lt;/p&gt;
 &lt;h4 id=&quot;modern-country&quot;&gt;Modern Country&lt;/h4&gt;
 &lt;p&gt;England&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot; https://mads709.github.io/northern-europe-map/&quot; title=&quot;map&quot; style=&quot;width= 200%; left= 440%&quot; height=&quot;400&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h3 id=&quot;culture&quot;&gt;Culture&lt;/h3&gt;
 &lt;p&gt;Romano-British&lt;/p&gt;
 &lt;h1 id=&quot;site-type&quot;&gt;Site Type&lt;/h1&gt;
